@@ -11,7 +11,7 @@ Los datos utilizados provienen del Relevamiento Anual elaborado por el Ministeri
 
 ## 🔗 Demo en vivo
 
-👉 [Ver la app en shinyapps.io](https://NOMBRE_USUARIO.shinyapps.io/NOMBRE_APP)
+👉 [Ver la app en shinyapps.io]([https://NOMBRE_USUARIO.shinyapps.io/NOMBRE_APP](https://jodashboard.shinyapps.io/indicadores-educacion/))
 
 ## ✉️ Contacto
 
